@@ -1,0 +1,16 @@
+.hdr {
+    background-color: white;
+    /*box-shadow: 0 2px 4px -2px gray;*/
+    /*height: 80px;*/
+}
+
+.big-link {
+    font-size: 20px;
+}
+
+.big-link :hover {
+    /*color: black !important;*/
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-decoration-color: red;
+}

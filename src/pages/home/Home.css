@@ -1,0 +1,29 @@
+.red-btn {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    font-weight: 500;
+    font-size: 24px;
+    border: none;
+    min-width: 120px;
+}
+
+.red-btn :hover {
+    border: 10px solid white;
+    color: rebeccapurple;
+}
+
+.blur-bg {
+    backdrop-filter: blur(10px);
+    border: 1px solid white;
+    padding-top: 8px !important;
+    padding-bottom: 0px !important;
+}
+
+.dark-blur-bg {
+    backdrop-filter: blur(10px);
+    background-color: rgb(0,0,0, 0.5);
+    border: 1px solid white;
+    padding-top: 8px !important;
+    padding-bottom: 0px !important;
+}

@@ -1,0 +1,17 @@
+
+$body-bg: #000;
+$body-color: #ffff;
+
+@font-face {
+  font-family: Oswald;
+  src: url("./assets/oswald-font/Oswald-Regular.ttf");
+  font-display: swap;
+}
+
+//$font-family-sans-serif: Oswald;
+//$font-family-monospace: Oswald;
+//$font-size-base: Oswald;
+$font-family-base: Oswald;
+
+
+@import "~bootstrap/scss/bootstrap";

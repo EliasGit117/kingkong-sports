@@ -1,0 +1,12 @@
+.ftr {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    background-color: black !important;
+}
+
+.red-hover {}
+
+.red-hover :hover {
+    color: red;
+}
