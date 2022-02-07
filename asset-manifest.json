@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kingkong-sports/static/css/main.14e50985.css",
+    "main.js": "/kingkong-sports/static/js/main.55e0eb82.js",
+    "static/js/787.c4f99126.chunk.js": "/kingkong-sports/static/js/787.c4f99126.chunk.js",
+    "static/media/diet.jpg": "/kingkong-sports/static/media/diet.9eae3bea9dd5abe31e00.jpg",
+    "static/media/ion.jpeg": "/kingkong-sports/static/media/ion.46dc78cfdde18a9ec3f2.jpeg",
+    "static/media/help-2.jpeg": "/kingkong-sports/static/media/help-2.3c55c57877ed76fc5895.jpeg",
+    "static/media/help.jpeg": "/kingkong-sports/static/media/help.3f0ba71d278b5fc969b9.jpeg",
+    "static/media/ion-3.jpeg": "/kingkong-sports/static/media/ion-3.8964f447f45e0d2df2b2.jpeg",
+    "static/media/ion-2.jpeg": "/kingkong-sports/static/media/ion-2.87b6bfdc35cf5b352374.jpeg",
+    "static/media/Oswald-Regular.ttf": "/kingkong-sports/static/media/Oswald-Regular.78dbb14f9e4bc321815c.ttf",
+    "index.html": "/kingkong-sports/index.html",
+    "main.14e50985.css.map": "/kingkong-sports/static/css/main.14e50985.css.map",
+    "main.55e0eb82.js.map": "/kingkong-sports/static/js/main.55e0eb82.js.map",
+    "787.c4f99126.chunk.js.map": "/kingkong-sports/static/js/787.c4f99126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e50985.css",
+    "static/js/main.55e0eb82.js"
+  ]
+}
