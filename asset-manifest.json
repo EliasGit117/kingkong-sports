@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kingkong-sports/static/css/main.49bc3770.css",
+    "main.js": "/kingkong-sports/static/js/main.4fe65fcb.js",
+    "static/js/787.c4f99126.chunk.js": "/kingkong-sports/static/js/787.c4f99126.chunk.js",
+    "static/media/gym.mp4": "/kingkong-sports/static/media/gym.957f43844874a451a58c.mp4",
+    "static/media/diet.jpg": "/kingkong-sports/static/media/diet.9eae3bea9dd5abe31e00.jpg",
+    "static/media/help-2.jpeg": "/kingkong-sports/static/media/help-2.3c55c57877ed76fc5895.jpeg",
+    "static/media/help.jpeg": "/kingkong-sports/static/media/help.3f0ba71d278b5fc969b9.jpeg",
+    "static/media/king-kong-white-highlight.png": "/kingkong-sports/static/media/king-kong-white-highlight.c86bdf27181e8bcb0641.png",
+    "static/media/Oswald-Regular.ttf": "/kingkong-sports/static/media/Oswald-Regular.78dbb14f9e4bc321815c.ttf",
+    "static/media/king-kong-white-text.png": "/kingkong-sports/static/media/king-kong-white-text.a5b996b906f0866aa6ff.png",
+    "index.html": "/kingkong-sports/index.html",
+    "static/media/getFetch.cjs": "/kingkong-sports/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.49bc3770.css.map": "/kingkong-sports/static/css/main.49bc3770.css.map",
+    "main.4fe65fcb.js.map": "/kingkong-sports/static/js/main.4fe65fcb.js.map",
+    "787.c4f99126.chunk.js.map": "/kingkong-sports/static/js/787.c4f99126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bc3770.css",
+    "static/js/main.4fe65fcb.js"
+  ]
+}
