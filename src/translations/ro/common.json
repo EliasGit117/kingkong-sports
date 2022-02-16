@@ -1,0 +1,5 @@
+{
+  "welcome": {
+    "title": "Salut la {{framework}}"
+  }
+}
